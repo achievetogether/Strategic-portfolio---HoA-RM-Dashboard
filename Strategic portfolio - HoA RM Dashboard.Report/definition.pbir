@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Strategic portfolio - HoA RM Dashboard.Dataset"
+    },
+    "byConnection": null
+  }
+}
